@@ -29,10 +29,8 @@ Markdown（`.md`）文件是一种轻量级标记语言文件，它使文本具�
 
 欢迎任何形式的贡献，包括提供反馈、修改现有教程或添加新教程。请通过GitHub的Pull Request或Issue功能与我们联系。
 
-## 许可
+## 许可证
 
-```
 本项目采用[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)授权许可。
-```
 
 
