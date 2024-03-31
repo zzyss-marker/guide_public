@@ -32,7 +32,7 @@ Markdown（`.md`）文件是一种轻量级标记语言文件，它使文本具�
 ## 许可
 
 ```
-本项目采用MIT许可证。更多信息请查看LICENSE文件。
+本项目采用[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)授权许可。
 ```
 
 
