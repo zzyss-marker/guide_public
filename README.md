@@ -8,7 +8,8 @@
 
 - **Conda安装与使用教程 (`conda_install.md`)**：提供了关于如何安装Miniconda，以及如何使用Conda创建、管理环境和包的详细指南。
 - **Git配置与使用教程 (`git_config.md`)**：解释了如何安装和配置Git，设置代理，创建SSH密钥，并将其添加到GitHub，以及如何克隆仓库、提交更改等基本Git操作。
-
+- **CUDA配置与NVIDA显卡驱动教程 (`CUDA and NVIDA driver.md`)**：解释了如何安装和配置Git，设置代理，创建SSH密钥，并将其添加到GitHub，以及如何克隆仓库、提交更改等基本Git操作。
+- **Pytorch安装：https://pytorch.org/get-started/locally/
 ## 如何阅读Markdown文件
 
 Markdown（`.md`）文件是一种轻量级标记语言文件，它使文本具有格式化的外观。要阅读这些教程，你可以使用以下几种方法之一：
