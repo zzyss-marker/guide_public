@@ -1,5 +1,7 @@
 程序挂载 nohup python your_program.py &
+
 htop查程序pid    杀进程 kill <PID>
+
 # 前后端tips
 在前后端开发中，前端和后端各自有不同的职责，通常通过HTTP请求和响应来进行数据交换。具体流程可以大致分为以下几个步骤：
 
