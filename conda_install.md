@@ -177,6 +177,11 @@ conda env create -f environment.yaml
 
 Conda将解析该文件并创建一个包含所有指定包和版本的环境。
 
+## bugs 
+终端使用gbk编码，vscode使用conda环境报错，强制修改为utf-8
+![image](https://github.com/user-attachments/assets/364efd89-6933-4cd5-8328-9eb1f9669d5a)
+
+
 ### 总结
 
 `.yml`和`.yaml`扩展名在功能上没有区别，都可以用来创建和管理Conda环境文件。选择哪一个主要取决于个人偏好或项目规范。在编写和使用这些文件时，最重要的是保持一致性，以避免混淆。
